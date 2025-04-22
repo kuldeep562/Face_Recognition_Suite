@@ -42,10 +42,3 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-## 📄 License
-
-See `LICENSE` file for license details.
-
-## 👨‍💻 Author
-
-Your Name — [Your GitHub or Contact Info]
